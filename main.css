@@ -1,0 +1,11 @@
+#header{
+ position: fixed;
+ top: 1px;
+ left: 1px;
+ width: 100%;
+ text-align: center;
+ 
+}
+#menu{
+    list-style-type: none;
+}
